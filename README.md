@@ -20,5 +20,5 @@
   ### Lista 6:
             Problema 1 (Exercise 6.15: The roots of a polynomial)
             Problema 2 (Exercise 6.16: The Lagrange point)
-            Problema 3 ()
+            Problema 3 (Exercise 6.18: The temperature of a light bulb)
             
