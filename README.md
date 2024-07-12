@@ -19,6 +19,6 @@
             Problema 3 (Exercise 6.13: Wien's displacement constant)
   ### Lista 6:
             Problema 1 (Exercise 6.15: The roots of a polynomial)
-            Problema 2 ()
+            Problema 2 (Exercise 6.16: The Lagrange point)
             Problema 3 ()
             
