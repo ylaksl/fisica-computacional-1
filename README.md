@@ -21,4 +21,12 @@
             Problema 1 (Exercise 6.15: The roots of a polynomial)
             Problema 2 (Exercise 6.16: The Lagrange point)
             Problema 3 (Exercise 6.18: The temperature of a light bulb)
-            
+  ### Lista 7:
+
+  ### Lista 8: 
+
+  ### Lista 9:
+            Problema 1 (Exercise 8.5: The driven pendulum)
+            Problema 2 (Exercise 8.6: Harmonic and anhannonic oscillators)
+            Problema 3 (Exercise 8.7: Trajectory with air resistance)
+                        
